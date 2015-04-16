@@ -1,5 +1,7 @@
 # mousetrap
 
+[![Join the chat at https://gitter.im/QCaudron/mousetrap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/QCaudron/mousetrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An RFID-based, weatherproof logging and capture system for use in outdoor experimental setups, 
 driven by Spark Core and Arduino microcontrollers. We hope to deploy **mousetraps** at the Stony 
 Ford Research Station at Princeton University, on mouse enclosures.
